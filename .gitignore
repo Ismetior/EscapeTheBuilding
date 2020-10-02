@@ -1,0 +1,13 @@
+###########################
+# Unreal Gernerated Files #
+###########################
+
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuiltData.uasset
+Building_Escape/Content/StarterContent/
+Building_Escape/Content/MedievalDungeon/
+Building_Escape/Content/Models/
